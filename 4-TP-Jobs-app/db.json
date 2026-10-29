@@ -1,0 +1,32 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Développeur Vue.js",
+      "description": "Développement et maintenance d'applications web interactives avec Vue 3 et Vite.",
+      "salary": "12 000 DH",
+      "experience": "2 ans",
+      "createdAt": "2026-03-01",
+      "type": "CDI"
+    },
+    {
+      "id": "2",
+      "title": "Développeur Full Stack",
+      "description": "Conception d'APIs REST avec Node.js et interfaces utilisateur réactives.",
+      "salary": "15 000 DH",
+      "experience": "3 ans",
+      "createdAt": "2026-03-05",
+      "type": "CDI"
+    },
+    {
+      "id": "3",
+      "title": "Stagiaire Développeur Web",
+      "description": "Stage de fin d'études pour participer à la création d'un portail interne.",
+      "salary": "3 500 DH",
+      "experience": "Débutant",
+      "createdAt": "2026-03-15",
+      "type": "Stage"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
